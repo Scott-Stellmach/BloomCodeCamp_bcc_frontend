@@ -1,0 +1,27 @@
+.background{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    background-color: rgb(235, 154, 80);
+
+}
+.mainLogin{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: aliceblue;
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+    height: 300px;
+    border-radius: 60px;
+}
+.loginImg{
+    height: 60px;
+    width: 60px;
+    border-radius: 130px;
+}
+.formItem{
+    padding-bottom: 5px;
+}
+.pass{
+    height: 25px;
+}

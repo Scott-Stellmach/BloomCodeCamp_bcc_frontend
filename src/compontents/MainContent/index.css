@@ -1,0 +1,40 @@
+.main{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 90px 0 90px 0;
+    background-color: rgb(235, 154, 80);
+}
+.sub-main{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    width: 40%;
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+    padding-top: 30px;
+    border-radius: 60px;
+    background-color: white;
+}
+.transferToLogin{
+    display: flex;
+    justify-content: center;
+}
+.imgContainer{
+    height: 30px;
+    width: 30px;
+}
+.login{
+    height: 30px;
+    width: 30px;
+    border-radius: 130px;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+}
+.loginButton{
+    color:black;
+    background-color: white;
+    height: 30px;
+    width: 150px;
+}
